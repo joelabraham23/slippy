@@ -5,7 +5,6 @@
 # Test the slippy quit comman
 #
 # Written by: Joel Abraham
-# For COMP2041/9044 Assignment 1
 # ==============================================================================
 
 # Create some files to hold output.

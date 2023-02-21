@@ -5,7 +5,6 @@
 # Testing the splitting of commands
 #
 # Written by: Joel Abraham
-# For COMP2041/9044 Assignment 2
 # ==============================================================================
 
 # Create some files to hold output.

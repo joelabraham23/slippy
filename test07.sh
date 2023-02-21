@@ -5,7 +5,6 @@
 # Test the -f command line option
 #
 # Written by: Joel Abraham
-# For COMP2041/9044 Assignment 2
 # ==============================================================================
 
 # Create some files to hold output.

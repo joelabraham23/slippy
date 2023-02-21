@@ -5,7 +5,6 @@
 # Test the slippy substitute command with different delimeter
 #
 # Written by: Joel Abraham
-# For COMP2041/9044 Assignment 2
 # ==============================================================================
 PATH="$PATH:$(pwd)"
 
